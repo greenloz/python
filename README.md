@@ -3,6 +3,4 @@ python
 
 PythonScripts
 
-Small collection of pythonscripts for linux environment.
-
-Michael Löfvenberg
+Small collection of old pythonscripts for debian environment.
